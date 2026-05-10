@@ -10,6 +10,9 @@ Track monthly income, expenses, and savings with automatic charts and KPI dashbo
 - Conditional formatting & color-coded dashboard
 
 # Screenshots
+![DashBoard](Screenshots/dashboard.png)
+![Monthly_Expenses](Screenshots/monthly_expenses.png)
+![Category_Breakdown](Screenshots/category_Breakdown.png)
 
 
 # How to Use
